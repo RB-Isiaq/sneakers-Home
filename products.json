@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "smart fit sneakers",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-1.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "classic shoes",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "women's casual sneakers",
+        "price": 20.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "breathable shoes",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "thick bottom shoes",
+        "price": 38.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "running sneakers",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "men's casual sneakers",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "air jordan",
+        "price": 40.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "business shoes",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "fashion sneakers",
+        "price": 27.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-10.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "lace up shoes",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-11.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "women's comfy sneakers",
+        "price": 14.99,
+        "image": { "fields": { "file": { "url": "./images/sneaker-12.jpeg" } } }
+      }
+    }
+  ]
+}
